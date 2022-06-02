@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cj idle dance"
+		},
+		{
+			"offsets": [
+				107,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cj Sing Note UP"
+		},
+		{
+			"offsets": [
+				221,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cj Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cj Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				111,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cj Sing Note DOWN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/NightmareCJ",
+	"position": [
+		110,
+		-120
+	],
+	"healthicon": "cj",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		72,
+		118
+	],
+	"camera_position": [
+		-180,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
